@@ -1,5 +1,5 @@
 # Hehe
-<button>Nu apasa aici</button>
+<button onclick="for(i = 0, topposition = 0, leftposition = 0; i < 25; i++){topposition += 50; leftposition += 50; window.open(document.URL, '_blank', `location=yes,height=570,width=520,scrollbars=yes,status=yes, menubar=0, left=${leftposition}, top=${topposition}`);">Nu apasa aici</button>
 ### Salut
 
 ##### Stai de ce esti aici? a da poate te-ai ratacit cine stie...
