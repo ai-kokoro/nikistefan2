@@ -2,6 +2,8 @@
 <button onclick="for(i = 0, topposition = 0, leftposition = 0; i < 25; i++){topposition += 50; leftposition += 50; window.open(document.URL, '_blank', `location=yes,height=570,width=520,scrollbars=yes,status=yes, menubar=0, left=${leftposition}, top=${topposition}`);">Nu apasa aici</button>
 ### Salut
 
+## Daca vrei sa afli mai multe despre mine intra aici [Niki Stefan](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 ##### Stai de ce esti aici? a da poate te-ai ratacit cine stie...
 
 # [Facebobok](https://nikistefan2.github.io/Fake-Facebook/)
