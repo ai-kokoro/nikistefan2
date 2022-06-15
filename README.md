@@ -1,4 +1,4 @@
-<p style="text-align:center; font-size: 40px; background-color: #222; padding: 10px;">Hei! 👋</p>
+# <p style="text-align:center; font-size: 40px; background-color: #222; padding: 10px;">Hei! 👋</p>
 
 ## Numele meu este niki şi sunt un băiat căruia îi place să programeze! :)
 <!-- 
