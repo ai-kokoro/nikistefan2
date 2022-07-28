@@ -1,6 +1,6 @@
 # <p style="text-align:center; font-size: 40px; background-color: #222; padding: 10px;">Hei! 👋</p>
 
-## Numele meu este niki şi sunt un băiat căruia îi place să programeze! :)
+## Numele meu este niki şi îmi place să programez, şi să încerc chestii noi! :)
 <!-- 
 [![Niki's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikistefan2&count_private=true&show_icons=true&theme=radical)]()
 
